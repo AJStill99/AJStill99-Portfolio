@@ -1,0 +1,43 @@
+header nav ul {
+    display: flex;
+    margin-left: 70%;
+    list-style: none;
+}
+
+header nav ul li {
+    padding-left: 10%;
+}
+
+#intro {
+    background-image: url("./image/space.jpeg");
+    background-repeat: round;
+}
+
+.container img {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 50%;
+    height: 300px;
+    border-radius: 50%;
+    border:5px;
+    border-style: solid;
+    border-color: aquamarine;
+}
+
+#intro h2 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+
+.container {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
